@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshak Parmar</h1>
-<h3 align="center">Software Engineer at <a href="https://auzmor.com">Auzmor</a></h3>
+<h3 align="center">Software Engineer helping companies to built scalable Frontend User Interface and User Experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshak369&label=Profile%20views&color=0e75b6&style=flat" alt="darshak369" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshakeyan&label=Profile%20views&color=0e75b6&style=flat" alt="darshakeyan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
